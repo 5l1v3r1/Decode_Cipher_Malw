@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Code by Miguel Mendez - @s1kr10s
-# WeB: www.exploiting.com
+# WeB: www.exploiting.cl
 
 def mid(s, offset, amount):
     return s[offset-1:offset+amount-1]
